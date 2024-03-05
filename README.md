@@ -1,7 +1,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.gorisse.thomas.sceneform/sceneform.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.gorisse.thomas.sceneform%22%20AND%20a:%22sceneform%22)
 [![Discord](https://img.shields.io/discord/893787194295222292?color=7389D8&label=Discord&logo=Discord&logoColor=ffffff&style=flat-square)](https://discord.gg/UbNDDBTNqb)
 
-Sceneform Maintained SDK for Android
+Sceneform Maintained SDK for Androidr
 ====================================
 
 ⚠️ **This framework isn't updated anymore. If you'd like to contribute, consider using [Sceneview](https://github.com/SceneView/sceneview-android) in your projects**
